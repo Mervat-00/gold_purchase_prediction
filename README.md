@@ -1,1 +1,3 @@
 # gold_purchase_prediction
+
+The objective of this study is to develop a multivariable regression model that can predict the amount of gold purchase based on demographic properties. The model is trained on a dataset that includes both dependent and independent variables, where the dependent variable is the gold purchase amount and the independent variables are demographic properties such as age, income,and  education level. The model uses these independent variables to estimate the dependent variable, with the goal of accurately predicting the amount of gold purchase for new customers based on their demographic properties. The model is evaluated using mean squared error and root mean squared error to ensure its accuracy and validity.
